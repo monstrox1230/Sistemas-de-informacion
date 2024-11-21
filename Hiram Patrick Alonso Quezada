@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sistemas de Información</title>
+    <style>
+        body {
+            background-color: beige;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .page {
+            padding: 20px;
+        }
+        h1 {
+            color: red;
+            font-size: 32px;
+            text-align: center;
+        }
+        h2 {
+            font-size: 24px;
+            color: black;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 16px;
+            color: black;
+            text-align: justify;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .index {
+            padding: 20px;
+            margin-bottom: 40px;
+        }
+        .index h2 {
+            text-align: center;
+        }
+        .index ul {
+            list-style: none;
+            padding: 0;
+        }
+        .index li {
+            margin: 10px 0;
+        }
+        .section {
+            margin-top: 50px;
+            border-top: 1px solid black;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Índice -->
+    <div class="page index" id="indice">
+        <h1>Sistemas de Información</h1>
+        <h2>Índice</h2>
+        <ul>
+            <li><a href="#que-es-un-sistema-de-informacion">¿Qué es un sistema de información?</a></li>
+            <li><a href="#caracteristicas">Características de un sistema de información</a></li>
+            <li><a href="#tipos">Tipos de sistemas de información</a></li>
+            <li><a href="#elementos">Elementos de un sistema de información</a></li>
+            <li><a href="#actividades">Actividades de un sistema de información</a></li>
+            <li><a href="#desarrollo">¿Cómo se desarrolla un sistema de información?</a></li>
+        </ul>
+    </div>
+
+    <!-- Secciones -->
+    <div class="page section" id="que-es-un-sistema-de-informacion">
+        <h2>¿Qué es un sistema de información?</h2>
+        <p>Un sistema de información es un conjunto ordenado de personas, procesos y herramientas cuyo fin es administrar datos e información, de manera que puedan ser recuperados y procesados fácil y rápidamente.</p>
+        <p>Todo sistema de información se compone de una serie de recursos interconectados y en interacción, bien organizados y dispuestos del modo más conveniente en relación con un propósito informativo determinado, que puede ser recabar información personal, procesar estadísticas, organizar archivos, entre otros.</p>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+    <div class="page section" id="caracteristicas">
+        <h2>Características de un sistema de información</h2>
+        <p>Los sistemas de información pueden presentar diferencias, pero generalmente recolectan y clasifican datos, que son procesados por personas y/o con recursos informáticos, para que sean fáciles de comprender y recuperar. Así, esta información queda almacenada para ser consultada de manera sencilla o para ser divulgada cuando sea necesario.</p>
+        <p>Estos sistemas se emplean en organizaciones empresariales y gubernamentales, pero también en otros sitios o estructuras, como bibliotecas, universidades, museos, redes sociales o aplicaciones.</p>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+    <div class="page section" id="tipos">
+        <h2>Tipos de sistemas de información</h2>
+        <p>Desde un punto de vista empresarial u organizativo, los sistemas de información pueden clasificarse en:</p>
+        <ul>
+            <li>Sistemas de procesamiento de transacciones (TPS): Gestionan las transacciones cotidianas.</li>
+            <li>Sistemas de información ejecutiva (EIS): Proveen información estratégica para directores.</li>
+            <li>Sistemas de información gerencial (MIS): Ayudan en la administración y toma de decisiones.</li>
+            <li>Sistemas de soporte de decisiones (DSS): Analizan variables importantes para resolver problemas.</li>
+            <li>Sistemas de automatización en la oficina (SAO): Organizan información administrativa.</li>
+        </ul>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+    <div class="page section" id="elementos">
+        <h2>Elementos de un sistema de información</h2>
+        <p>Un sistema de información incluye los siguientes elementos:</p>
+        <ul>
+            <li>Equipos: Hardware, software, redes y telecomunicaciones.</li>
+            <li>Personas: Los individuos que interactúan con el sistema.</li>
+            <li>Datos: Información cualitativa y cuantitativa organizada.</li>
+        </ul>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+    <div class="page section" id="actividades">
+        <h2>Actividades de un sistema de información</h2>
+        <p>Las principales actividades son:</p>
+        <ol>
+            <li>Recopilación: Reunir datos relevantes para la organización.</li>
+            <li>Almacenamiento: Guardar datos organizados y categorizados.</li>
+            <li>Procesamiento: Analizar datos para generar información útil.</li>
+            <li>Distribución: Enviar información a quienes corresponda.</li>
+            <li>Retroalimentación: Evaluar las actividades y realizar mejoras.</li>
+        </ol>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+    <div class="page section" id="desarrollo">
+        <h2>¿Cómo se desarrolla un sistema de información?</h2>
+        <p>El desarrollo de un sistema de información incluye pasos como:</p>
+        <ol>
+            <li>Definir el objetivo.</li>
+            <li>Analizar el sistema ideal.</li>
+            <li>Diseñar y proyectar el sistema.</li>
+            <li>Instalar y probar el sistema.</li>
+            <li>Implementar y mantener el sistema.</li>
+        </ol>
+        <p><a href="#indice">Volver al índice</a></p>
+    </div>
+
+</body>
+</html>
